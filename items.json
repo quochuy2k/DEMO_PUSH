@@ -1,0 +1,28 @@
+[{
+    "name": "Mouse",
+    "sku": "001",
+    "price": "20.0",
+    "currency": "USD",
+    "quantity": 1
+},
+{
+  "name": "keyboard",
+  "sku": "002",
+  "price": "15.0",
+  "currency": "USD",
+  "quantity": 1
+},
+{
+    "name": "Webcam",
+    "sku": "003",
+    "price": "10.0",
+    "currency": "USD",
+    "quantity": 5
+  },
+  {
+    "name": "Headphone",
+    "sku": "004",
+    "price": "5.0",
+    "currency": "USD",
+    "quantity": 1
+  }]
